@@ -6,7 +6,6 @@ main, footer{
 .title{
     font-family: 'Inter', sans-serif;
     font-size: 49px;
-    line-height: 56px;
 }
 
 .cor{
@@ -18,7 +17,7 @@ main, footer{
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     color: #7D7987;
-    
+    line-height: 28px;
 }
 
 footer, a{
